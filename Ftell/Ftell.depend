@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1701167247 source:c:\users\hp\desktop\c programs\ftell\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1689860102 source:c:\users\hp\desktop\c programs\ftell\fprintf.c
+	<stdio.h>
+

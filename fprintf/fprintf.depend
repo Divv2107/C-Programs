@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689860572 source:c:\users\hp\desktop\c programs\fprintf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701160410 source:c:\users\hp\desktop\c programs\arya\main.c
+	<stdio.h>
+	<stdlib.h>
+

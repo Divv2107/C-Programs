@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1697004818 source:c:\users\hp\desktop\c programs\external\file1.c
+	<stdio.h>
+
+1697003557 source:c:\users\hp\desktop\c programs\external\main.c
+	<stdlib.h>
+
+1697004927 source:c:\users\hp\desktop\c programs\external\file2.c
+
+1697005270 source:c:\users\hp\desktop\c programs\external\fun1.c
+
+1697005286 source:c:\users\hp\desktop\c programs\external\fun2.c
+
+1697005242 source:c:\users\hp\desktop\c programs\external\static.c
+	<stdio.h>
+
+1697005242 source:c:\users\hp\desktop\c programs\external\static1.c
+
